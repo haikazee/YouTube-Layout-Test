@@ -1,0 +1,11 @@
+Hello
+
+It took me Approximately 9 Hours to develop this layout, give or take 30 mins.
+I tried to replicate the Youtube video layout style, which was time consuming, but couldn't do so Alas 
+so the video layout is still basic HTML5.
+
+I hope I pass your test :)
+
+Looking forward for your reply.
+
+Thank You
